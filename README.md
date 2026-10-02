@@ -15,8 +15,8 @@ Analisis dilakukan sepenuhnya di platform **Google Earth Engine (GEE)** mengguna
 ## 📊 Hasil Analisis & Angka Statistik (Results)
 Berdasarkan visualisasi spasial dan perhitungan algoritma pada Google Earth Engine, ditemukan data kuantitatif sebagai berikut:
 
-* **Akumulasi Kehilangan Hutan di Hulu (2000-2023):** `[Isi dengan angka Hektar dari Console GEE]` Ha.
-* **Luas Area Hilir Tergenang Banjir/Lumpur (Maret 2024):** `[Isi dengan angka Hektar dari Console GEE]` Ha.
+* **Akumulasi Kehilangan Hutan di Hulu (2000-2023):** `[13974.05]` Ha.
+* **Luas Area Hilir Tergenang Banjir/Lumpur (Maret 2024):** `[75957.67]` Ha.
 
 ### Kesimpulan Geografi Lingkungan:
 Peta menunjukkan adanya korelasi spasial yang kuat. Deforestasi yang terakumulasi di wilayah dataran tinggi perbukitan Solok selama dua dekade terakhir menurunkan kemampuan infiltrasi tanah secara signifikan. Akibatnya, saat curah hujan ekstrem melanda pada Maret 2024, air hujan langsung berubah menjadi aliran permukaan (*surface runoff*) pekat yang membawa material longsor dan merendam kawasan lembah pemukiman di hilir.
